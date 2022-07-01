@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India</h3>
-<img align ="right" alt ="coding" width ="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align ="right" alt ="coding" width ="400" src="https://camo.githubusercontent.com/7f60e7e90bf365a72293499929fb13b91b34b52440685be8c21fa900e9d19b86/68747470733a2f2f6c797368746563686e6f6c6f67792e636f6d2f61646d696e2f6173736574732f696d672f616e696d6174696f6e5f696d616765732f646576656c6f7065722e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeirax&label=Profile%20views&color=0e75b6&style=flat" alt="codeirax" /> </p>
 
 <p align="left"> <a href="https://twitter.com/code_shubham" target="blank"><img src="https://img.shields.io/twitter/follow/code_shubham?logo=twitter&style=for-the-badge" alt="code_shubham" /></a> </p>
