@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java Backend**
 
-- 👨‍💻 All of my projects are available at [https://codeshubh.dev.voyage/](https://codeshubh.dev.voyage/)
+- 👨‍💻 All of my projects are available at [https://shubhamportfolio1.netlify.app/](https://shubhamportfolio1.netlify.app/)
 
 - 💬 Ask me about **Java , Spring , SQL**
 
